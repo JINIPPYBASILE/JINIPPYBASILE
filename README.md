@@ -1,4 +1,4 @@
-# JINIPPYBASILE
+# JINIPPYBASILE/ VERNE GO
 ### IB student by day, tired IB student by night.
 **HTML + CSS --> Trying to learn Javascript, PHP and GIT workflow.** <br>
 <small> IB 12 - Character Desginer/Hobby Coder - #2 James Bond fan</small><br>
