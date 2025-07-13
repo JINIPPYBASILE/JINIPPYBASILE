@@ -1,6 +1,6 @@
 # JINIPPYBASILE/ VERNE GO
-### IB student by day, tired IB student by night.
-**HTML + CSS --> Trying to learn Javascript, PHP and GIT workflow.** <br>
+### I'M FREE FROM IB HELL YEAH LETS GO RAHHH
+**HTML + CSS (also not too bad at 11ty and Nunjucks) --> Learning JS** <br>
 <small> IB 12 - Character Desginer/Hobby Coder - #2 James Bond fan</small><br>
 <hr>
 
