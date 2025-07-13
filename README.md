@@ -1,11 +1,11 @@
 # JINIPPYBASILE/ VERNE GO
 ### I'M FREE FROM IB HELL YEAH LETS GO RAHHH
 
-|<sup>Descriptor</sup> | Language |
+|<sup>Descriptor</sup> | <sup>Language</sup> |
 | ----------- | ----------- |
-| **Stuff I'm okay at:**|   HTML, CSS, Nunjucks, 11ty |
-| **Learning:** | JS |
-| **Wanting to learn:** | PHP |
+| <sup>**Stuff I'm okay at:**</sup>|   <sup>HTML, CSS, Nunjucks, 11ty</sup> |
+| <sup>**Learning:**</sup> | <sup>JS</sup> |
+| <sup>**Wanting to learn:**</sup> | <sup>PHP</sup> |
 
 
 
