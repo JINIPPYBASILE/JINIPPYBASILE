@@ -1,8 +1,10 @@
 # JINIPPYBASILE/ VERNE GO
 ### I'M FREE FROM IB HELL YEAH LETS GO RAHHH
-**Stuff I'm okay at:** HTML, CSS, Nunjucks, 11ty <br>
+<small>
+  **Stuff I'm okay at:** HTML, CSS, Nunjucks, 11ty <br>
 **Learning:** JS<br>
 **Wanting to learn:** PHP<br>
+</small>
 <small> IB 12 - Character Desginer/Hobby Coder - #2 James Bond fan</small><br>
 <hr>
 
