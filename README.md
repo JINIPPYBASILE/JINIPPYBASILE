@@ -1,15 +1,15 @@
-# JINIPPYBASILE/ VERNE GO
+# JINIPPYBASILE/ VERNE
 ### I'M FREE FROM IB HELL YEAH LETS GO RAHHH
 
 |<sup>Descriptor</sup> | <sup>Language</sup> |
 | ----------- | ----------- |
 | <sup>**Stuff I'm okay at:**</sup>|   <sup>HTML, CSS, Nunjucks, 11ty</sup> |
-| <sup>**Learning:**</sup> | <sup>JS</sup> |
+| <sup>**Learning:**</sup> | <sup>JS, R</sup> |
 | <sup>**Wanting to learn:**</sup> | <sup>PHP</sup> |
 
 
 
-<small> IB 12 - Character Desginer/Hobby Coder - #2 James Bond fan</small><br>
+<small> IB 12 - Character design + artist - #2 James Bond fan</small><br>
 <hr>
 
 ***"Don't be the light... eat the light."***- attributed to a close friend
